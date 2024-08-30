@@ -15,8 +15,7 @@ A simple calculator web application that performs basic arithmetic operations su
 
 ## Demo
 
-You can see a live demo of the calculator [here](#).  
-*(Replace `#` with your GitHub Pages link or any other hosting link if you deploy it.)*
+You can see a live demo of the calculator [here](https://simple-calculator-college.vercel.app/).  
 
 ## Features
 
