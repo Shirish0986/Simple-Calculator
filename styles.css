@@ -1,0 +1,12 @@
+.calculator {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #000;
+    background-color: #f8f9fa;
+}
+
+.form-control:focus {
+    box-shadow: none;
+}
