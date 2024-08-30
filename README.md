@@ -17,6 +17,9 @@ A simple calculator web application that performs basic arithmetic operations su
 
 You can see a live demo of the calculator [here](https://simple-calculator-college.vercel.app/).  
 
+https://github.com/user-attachments/assets/3a45921a-ca62-4367-aeaa-cffd793457f4
+
+
 ## Features
 
 - Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
